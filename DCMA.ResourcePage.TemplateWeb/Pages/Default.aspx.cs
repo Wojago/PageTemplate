@@ -47,7 +47,7 @@ namespace DCMA.ResourcePage.TemplateWeb
                 chromeNavigation.setVisible(true);
             }";
 
-            //register script in page which shows the content when chrome was loaded
+            //register script in page which shows the content when chrome is  loaded
             Page.ClientScript.RegisterClientScriptBlock(typeof(Default), "BasePageScript", script, true);
         }
 
