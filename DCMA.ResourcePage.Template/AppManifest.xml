@@ -4,7 +4,7 @@
      Name="DCMAResourcePageTemplate"
      ProductID="{37fb0961-df01-427a-a261-dd1964d882fb}"
      Version="1.0.0.0"
-     SharePointMinVersion="16.0.0.0"
+     SharePointMinVersion="16.0.10.0"
 >
   <Properties>
     <Title>DCMA.ResourcePage.Template</Title>
